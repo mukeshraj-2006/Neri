@@ -1828,7 +1828,7 @@ label {
 }
 
 .psetup-select option {
-    background: #0D1322;
+    background: var(--bg-card);
     color: var(--text-color);
 }
 
@@ -2455,7 +2455,7 @@ label {
 }
 
 .career-form-select option {
-    background: #1a1a2e;
+    background: var(--bg-card);
     color: var(--text-color);
 }
 
