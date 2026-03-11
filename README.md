@@ -1,4 +1,4 @@
-# 🚀 NERI — Performance Tracker Phase 3
+#  NERI 
 
 **A comprehensive personal performance tracking web application** that unifies career development, physical health, nutrition, daily productivity, and personal finance into a single intelligent dashboard. Featuring a **fully responsive design** optimized for Desktop, Tablet, and Mobile devices, along with seamless **Dark and Light Mode** support.
 
